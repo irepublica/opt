@@ -1,0 +1,9 @@
+# 2020-10-11
+
+# download .zip file 
+https://information.rapid7.com/metasploit-framework.html
+
+# setup
+- unzip
+- new machine on VM -> use existing hard drk -> select .vmdk file 
+- start and login msfadmin/msfadmin
