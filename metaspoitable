@@ -6,4 +6,11 @@ https://information.rapid7.com/metasploit-framework.html
 # setup
 - unzip
 - new machine on VM -> use existing hard drk -> select .vmdk file 
+- NatNetWork
 - start and login msfadmin/msfadmin
+
+# correct website misconfig
+sudo nano /var/www/mutillidae/config.inc
+
+# in the script, change to 
+$dbname = 'owasp10';
