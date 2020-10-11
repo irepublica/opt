@@ -1,0 +1,10 @@
+# 2020-10-11
+
+# download custom kali image
+# use link 2 
+https://zsecurity.org/download-custom-kali/
+
+- double click, import
+- click settings on virtualbox
+    *disable audio if kali crash
+    *network: NAT Network -> NatNetwork, if can't find any, go to virtualbox preferences -> network -> plus sign on the right
